@@ -18,3 +18,16 @@
     display: flex;
     gap: 0.5rem;
 }
+
+.search_container input,
+.search_container button{
+    padding: .6rem;
+    border-radius: 3px;
+    color: #2b3566;
+    border: none;
+}
+
+.search_container button{
+    background-color: #0e1129;
+    cursor: pointer;
+}
